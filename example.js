@@ -14,7 +14,7 @@ function bubbleSort(arr) {
 }
 
 // Usage
-let arr = [64, 34,12, 25, 12, 22, 11, 90];
+let arr = [64, 34,200,8, 25, 12, 22, 11, 90];
 console.log("Unsorted array is: ", arr);
 console.log("Sorted array is: ", bubbleSort(arr));
 
